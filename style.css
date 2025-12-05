@@ -289,7 +289,7 @@ nav {
 }
 
 /* Responsive */
-/* @media (max-width: 768px) {
+ @media (max-width: 768px) {
     .hero {
         flex-direction: column-reverse;
         text-align: center;
@@ -316,5 +316,5 @@ nav {
         gap: 1rem;
         flex-wrap: wrap;
     }
-} */
+} 
 
