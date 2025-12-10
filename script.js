@@ -86,3 +86,6 @@ if (projectsTitle) observer.observe(projectsTitle);
 document.querySelectorAll('.project-card').forEach(card => {
     observer.observe(card);
 });
+
+
+// Footer Section
